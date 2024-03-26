@@ -1,0 +1,518 @@
+12    LE BABILLARD DV TEMPS en vers Burleſques: Racontant tout ce qui s’eſt
+       [['A~'], ['vER'], 'b y R l E _ k k _ _ _', ['Ra', 'kO~', 'tA~'], ['tu'], ['s@'], ['ki'], '_ _ _ _ E s E']
+-------------------
+11    compoſez par le Babillard, pour ſeruir
+       [['kO~', 'po', 'ze'], ['paR'], ['l@'], ['ba', 'bi', 'jaR'], ['puR'], 's e R H i R']
+-------------------
+6    d'entretien aux Intereſſez de
+       ['d _ _ A~ t R @ t j _ E~', '_ _ k', 'E~ _ t @ R E s _ _ e', ['d2']]
+-------------------
+5    SI ie ne ſuis gay &amp; gaillard,
+       ['j _', ['n@'], ['sHi'], ['gE'], ['ga', 'jaR']]
+-------------------
+7    Au moins ſuis-ie le Babillard,
+       [['o'], ['mwE~'], 's H i _ _ j _', ['l@'], ['ba', 'bi', 'jaR']]
+-------------------
+6    Qui reuenant de faire courſe
+       [['ki'], 'R _ _ @ n _ _ A~', ['d2'], ['fER'], ['kuRs']]
+-------------------
+8    Ay rapporté vuide ma bourſe;
+       [['a', 'i'], ['Ra', 'pOR', 'te'], ['vHid'], ['ma'], ['buRs']]
+-------------------
+7    Si bien que ſi ie veux manger,
+       [['si'], ['bjE~'], ['k@'], ['si'], 'j _', ['v2'], ['mA~', 'Ze']]
+-------------------
+9    Me conuient vendre ou engager;
+       [['m@'], 'k O n y j _ _ E', ['vA~dR'], ['u'], ['A~', 'ga', 'Ze']]
+-------------------
+7    Encore de plus i'ay vn rhume
+       [['A~', 'kOR'], ['d2'], ['ply'], 'i _ E j', 'v _', ['ROm']]
+-------------------
+7    Qui me contraint prendre la plume,
+       [['ki'], ['m@'], ['kO~', 'tRE~'], ['pRA~dR'], ['la'], ['plym']]
+-------------------
+7    Pour vous dire que Mazarin
+       [['puR'], ['vu'], ['diR'], ['k@'], ['ma', 'za', 'RE~']]
+-------------------
+8    Auant bien peu n'aura plus rien.
+       ['_ o _ _ A~', ['bjE~'], ['p2'], 'n _ _ O R a', ['ply'], ['RjE~']]
+-------------------
+7    Voyez vn peu ce galand homme,
+       [['vwa', 'je'], 'v _', ['p2'], ['s@'], 'g a l _ A~ _', ['Om']]
+-------------------
+7    Ce grand Hypocrite de Rome,
+       [['s@'], ['gRA~'], ['i', 'pO', 'kRit'], ['d2'], 'R O m _']
+-------------------
+8    Qui a quitté là les Liegeois
+       [['ki'], ['a'], ['ki', 'te'], ['la'], ['le'], 'l j @ Z _ w _ a']
+-------------------
+7    Pour mal traitter nos bons François:
+       [['puR'], ['mal'], 't R _ _ t _ e _', ['no'], ['bO~'], 'f R _ A~ _ _ w a _ _']
+-------------------
+7    Il croyoit auoir vent en poupes
+       [['il'], 'k R _ w w _ a', '_ o w a R', ['vA~'], ['A~'], 'p _ u p _ _']
+-------------------
+8    Quand il reuint auec ces troupes,
+       [['kA~'], ['il'], 'R _ 9 E~ _ A~', '_ o E k', ['se'], ['tRup']]
+-------------------
+6    Paſſant bien gay &amp; franc &amp; net
+       [['pa', 'sA~'], ['bjE~'], ['gE'], ['fRA~'], ['nEt']]
+-------------------
+8    Dedans le beau lieu d'Eſpernay
+       [['d@', 'dA~'], ['l@'], ['bo'], ['lj2'], 'd _ E s p E R n E j']
+-------------------
+8    Vn iour de Ianuier le troiſiéme,
+       ['v _', 's _ u R', ['d2'], 'j a n y j e _', ['l@'], 't R w a z i _ _ m _']
+-------------------
+6    Sçachez qu'à mentir point ie n'aime,
+       ['_ _ _ a _ S _ e', 'k _ _ _ _', ['mA~', 'tiR'], ['pwE~'], 'j _', 'n _ _ E m _']
+-------------------
+5    Ie vous dis pure verité
+       ['j _', ['vu'], ['di'], ['pyR'], 'v @ _ i t _ _']
+-------------------
+8    D'aucun il ne fut conteſté.
+       ['d _ _ o k y _', ['il'], ['n@'], ['fy'], ['kO~', 'tEs', 'te']]
+-------------------
+6    Pas vn n'empeſcha le paſſage
+       [['pA'], 'v _', 'n _ _ _ p E s _ S a', ['l@'], ['pa', 'saZ']]
+-------------------
+7    A cét homme de grand courage,
+       [['a'], 'k _ _ E', ['Om'], ['d2'], ['gRA~'], ['ku', 'RaZ']]
+-------------------
+7    Sinon à la ville de Ponts,
+       [['si', 'nO~'], ['a'], ['la'], ['vil'], ['d2'], ['pO~']]
+-------------------
+8    Où il ſe monſtra furibonds,
+       [['u'], ['il'], ['s@'], ['mO~s', 'tRa'], ['fy', 'Ri', 'bO~']]
+-------------------
+8    Mettant le bon Coudray par terre,
+       [['mE', 'tA~'], ['l@'], ['bO~'], 'k _ u d R E j', ['paR'], ['tER']]
+-------------------
+8    Et Bitaut priſonnier de Guerre:
+       [['e'], 'b i t _ O _', ['pRi', 'zO', 'nje'], ['d2'], 'g _ E R _ _ _']
+-------------------
+8    Mais pour faire ce mauuais tour,
+       [['mE'], ['puR'], ['fER'], ['s@'], 'm _ o y _ E _', ['tuR']]
+-------------------
+7    L'on m'a dit que le d'Hocquincour
+       ['l _ j O~', 'm _ a', ['di'], ['k@'], ['l@'], 'd _ S O k _ _ E~ _ k _ u R']
+-------------------
+6    Monſtra vn trait de vray vaut-rien,
+       [['mO~s', 'tRa'], 'v _', ['tRE'], ['d2'], 'v R E j', 'v _ o _ _ R j _ E~']
+-------------------
+7    Soûtenant Iulles Mazarin.
+       ['s O _ _ t @ n _ _ A~', 'j O _ _ _ _', ['ma', 'za', 'RE~']]
+-------------------
+7    Mazarin ce traiſtre perfide,
+       [['ma', 'za', 'RE~'], ['s@'], 't R _ E s t R _', ['pER', 'fid']]
+-------------------
+8    De plus de vingt mille homicide,
+       [['d2'], ['ply'], ['d2'], ['vE~'], ['mil'], ['O', 'mi', 'sid']]
+-------------------
+7    Condamné de Dieu &amp; du Roy,
+       [['kO~', 'da', 'ne'], ['d2'], ['dj2'], ['dy'], 'R O j']
+-------------------
+8    Pour auoir mis en deſarroy
+       [['puR'], '_ o w a R', ['mi'], ['A~'], 'd @ z a R _ O j']
+-------------------
+6    France &amp; Paris la belle Ville,
+       ['f R _ A~ s _', ['pa', 'Ri'], ['la'], ['bEl'], ['vil']]
+-------------------
+5    Humble vertueuſe &amp; docile,
+       [['9~bl'], ['vER', 'tH2z'], ['dO', 'sil']]
+-------------------
+7    Qui ne demande que la paix,
+       [['ki'], ['n@'], ['d@', 'mA~d'], ['k@'], ['la'], ['pE']]
+-------------------
+9    Et la fin de ce grand Beneſt,
+       [['e'], ['la'], ['fE~'], ['d2'], ['s@'], ['gRA~'], 'b @ _ E s E']
+-------------------
+8    Qui ſera bien-toſt ſans doutance
+       [['ki'], ['s@', 'Ra'], 'b j _ n _ t o s E', ['sA~'], 'd _ u t _ A~ s _']
+-------------------
+8    Dans le beau milieu de la France;
+       [['dA~'], ['l@'], ['bo'], ['mi', 'lj2'], ['d2'], ['la'], 'f R _ A~ s _']
+-------------------
+8    Ainſi comme il nous eſt predit
+       [['E~', 'si'], ['kOm'], ['il'], ['nu'], ['E'], 'p R @ d i _']
+-------------------
+8    Dans Noſtradamus qui a dit,
+       [['dA~'], 'n o s t R a d a m y _', ['ki'], ['a'], ['di']]
+-------------------
+6    Qu'auparauant ſeize ſémaine
+       ['k _ _ j O p a R _ o _ _ A~', ['sEz'], '_ _ _ m _ E n _']
+-------------------
+8    Mazarin aura de la peine,
+       [['ma', 'za', 'RE~'], ['o', 'Ra'], ['d2'], ['la'], ['pEn']]
+-------------------
+7    Et que mal-gré luy &amp; ſon ort
+       [['e'], ['k@'], 'm a l _ g R _ _', 'l y i', ['sO~'], 'O R _']
+-------------------
+8    Il ſera reduit à la mort.
+       [['il'], ['s@', 'Ra'], 'R @ d H i _', ['a'], ['la'], ['mOR']]
+-------------------
+6    Deſia il eſt vray ie vous iure,
+       ['d _ z j a', ['il'], ['E'], 'v R E j', 'j _', ['vu'], 'j O R _']
+-------------------
+8    Fontrailles en a fait la gageure,
+       ['f _ O~ t R a j _ _ _ _', ['A~'], ['a'], ['fE'], ['la'], ['ga', 'ZyR']]
+-------------------
+8    Et dit que par ſon grand ſerment
+       [['e'], ['di'], ['k@'], ['paR'], ['sO~'], ['gRA~'], ['sER', 'mA~']]
+-------------------
+7    Il faut mettre au monument
+       [['il'], ['fo'], ['mEtR'], ['o'], ['mO', 'ny', 'mA~']]
+-------------------
+7    Ce Mazarin, ce Maiſtre Iules,
+       [['s@'], ['ma', 'za', 'RE~'], ['s@'], 'm _ E s t R _', ['jyl']]
+-------------------
+7    Ce grand Camarade à Mulles,
+       [['s@'], ['gRA~'], ['ka', 'ma', 'Rad'], ['a'], 'm y _ _ _ _']
+-------------------
+8    Ce grand garcié, ce grand maraut,
+       [['s@'], ['gRA~'], 'g a R s i _ _', ['s@'], ['gRA~'], ['ma', 'Ro']]
+-------------------
+8    Ce grand truant, ce grand ribaut,
+       [['s@'], ['gRA~'], 't R y _ _ A~', ['s@'], ['gRA~'], 'R i b _ O _']
+-------------------
+7    Ce perfide, cét endiablé,
+       [['s@'], ['pER', 'fid'], 'k _ _ E', ['A~', 'djA', 'ble']]
+-------------------
+6    Qu'à Montfaucon fut-il traiſné.
+       ['k _ _ _ _', ['mO~', 'fo', 'kO~'], 'f y t _ i _', 't R _ E _ _ _ _']
+-------------------
+5    Salle aux puceaux &amp; aux pucelle
+       [['sal'], '_ _ k', ['py', 'so'], '_ _ k', ['py', 'sEl']]
+-------------------
+8    Qui a remply ſon eſcarcelle
+       [['ki'], ['a'], 'R A~ _ p l i', ['sO~'], ['Es', 'kaR', 'sEl']]
+-------------------
+8    Des plus beaux de nos Louys d'or
+       [['de'], ['ply'], ['bo'], ['d2'], ['no'], 'l _ u i _', 'd _ O R']
+-------------------
+8    Auec quoy ce coup il endort,
+       ['_ o E k', 'k _ O j', ['s@'], ['ku'], ['il'], ['A~', 'dOR']]
+-------------------
+6    Et Sauuebeuf &amp; d'Hoquincourt,
+       [['e'], 's _ o y _ b _ 9 f', 'd _ S O k _ E~ _ k _ u R _']
+-------------------
+5    S. Luc &amp; le Comte d'Harcourt,
+       ['_', 'l y k', ['l@'], ['kO~t'], 'd _ S a R k _ u R _']
+-------------------
+7    Manicamp &amp; la Meilleraye,
+       ['m a n i k A~ _ p', ['la'], 'm E j _ _ @ _ E j _']
+-------------------
+6    Qui deſirent mettre en proye
+       [['ki'], 'd _ z i R _ _ _', ['mEtR'], ['A~'], 'p R O a _']
+-------------------
+6    Bourdeaux &amp; la ville d'Angers;
+       ['b _ u R d _ _ _ o', ['la'], ['vil'], 'd _ _ A~ Z e _ _']
+-------------------
+7    Mais ils courent pareils dangers,
+       [['mE'], ['il'], ['kuR'], ['pa', 'REj'], ['dA~', 'Ze']]
+-------------------
+5    Comme d'Hocquincourt beau &amp; ieune,
+       [['kOm'], 'd _ S O k _ _ E~ _ k _ u R _', ['bo'], 'j _ 9 n _']
+-------------------
+6    Lequel fur tué l'autre Lune,
+       [['l@', 'kEl'], ['fyR'], ['tHe'], ['l-\\otR'], ['lyn']]
+-------------------
+8    Comme il alloit ſe pannader,
+       [['kOm'], ['il'], 'a l _ w _ a', ['s@'], 'p a _ n a d e _']
+-------------------
+9    Sur luy l'on tira ſans tarder
+       [['syR'], 'l y i', 'l _ j O~', ['ti', 'Ra'], ['sA~'], ['taR', 'de']]
+-------------------
+7    Qui paya ſa rodemontade,
+       [['ki'], ['pE', 'ja'], ['sa'], 'R O d _ m _ O~ t a d _']
+-------------------
+8    En le mettant au rang des morts
+       [['A~'], ['l@'], ['mE', 'tA~'], ['o'], ['RA~'], ['de'], ['mOR']]
+-------------------
+6    Auec beaucoup d'autres corps,
+       ['_ o E k', ['bo', 'ku'], ['dotR'], ['kOR']]
+-------------------
+9    Qui euſt trouué leur ſepulture
+       [['ki'], '_ 2 s E', 't R _ u y _ _', ['l9R'], 's E _ y l t y R _']
+-------------------
+7    Cependant ce vieux d'Hocquincourt,
+       [['s@', 'pA~', 'dA~'], ['s@'], ['vj2'], 'd _ S O k _ _ E~ _ k _ u R _']
+-------------------
+5    Va &amp; vient court &amp; racourt,
+       [['va'], ['vjE~'], ['kuR'], 'R a k _ u R _']
+-------------------
+7    Fâché &amp; la couleur fort blême,
+       [['fA', 'Se'], ['la'], ['ku', 'l9R'], ['fOR'], ['blEm']]
+-------------------
+8    Voyant que ſon ſecond luy-même,
+       [['vwa', 'jA~'], ['k@'], ['sO~'], ['s@', 'gO~'], 'l y i _ m _ _ m _']
+-------------------
+7    Son appuy &amp; ſon reconfort
+       [['sO~'], 'a p _ H i', ['sO~'], 'R @ k _ O~ f O R _']
+-------------------
+7    A fait vn hommage à la mort;
+       [['a'], ['fE'], 'v _', ['O', 'maZ'], ['a'], ['la'], ['mOR']]
+-------------------
+8    C'eſt dommage du perſonnage,
+       ['k _ E s E', ['dO', 'maZ'], ['dy'], ['pER', 'sO', 'naZ']]
+-------------------
+7    Il auoit vn gentil courage,
+       [['il'], '_ o w _ a', 'v _', ['ZA~', 'ti'], ['ku', 'RaZ']]
+-------------------
+7    Il eſtoit adroit &amp; gallant,
+       [['il'], 'E s t w _ a', ['ad', 'Rwa'], 'g a l _ _ _ A~']
+-------------------
+7    Courageux leger &amp; vaillant;
+       [['ku', 'Ra', 'Z2'], 'l @ Z e _', ['va', 'jA~']]
+-------------------
+6    Mais pour obeïr à cét homme
+       [['mE'], ['puR'], 'O b _ _ _ R', ['a'], 'k _ _ E', ['Om']]
+-------------------
+8    Qui eſtoit Caualier de Rome,
+       [['ki'], 'E s t w _ a', 'k _ o a l j e _', ['d2'], 'R O m _']
+-------------------
+6    A finy ſa vie &amp; ſes iours,
+       [['a'], 'f E~ _ i', ['sa'], ['vi'], ['se'], 's _ u R _']
+-------------------
+7    Et la ſuitte de ſes amours.
+       [['e'], ['la'], 's H i t _ _', ['d2'], ['se'], ['a', 'muR']]
+-------------------
+8    Helas ! helas ! qu'a fait la France,
+       ['h @ l a _', '_', 'h @ l a _', '_', 'k _ _ a', ['fE'], ['la'], 'f R _ A~ s _']
+-------------------
+7    D'eſtre ſi long-temps en ſouffrance;
+       ['d _ E s t R _', ['si'], 'l _ O~ N _ t A~ _ p _', ['A~'], ['su', 'fRA~s']]
+-------------------
+7    Car deſia trois ans ſont paſſez
+       [['kaR'], 'd _ z j a', ['tRwa'], ['A~'], ['sO~'], ['pa', 'se']]
+-------------------
+7    Depuis que fuſmes menacez
+       [['d@', 'pHi'], ['k@'], 'f y s m _ _', ['m@', 'na', 'se']]
+-------------------
+8    Par ce cruel traiſtre homicide,
+       [['paR'], ['s@'], 'k R y E l', 't R _ E s t R _', ['O', 'mi', 'sid']]
+-------------------
+8    Et des tyrans le plus perfide,
+       [['e'], ['de'], ['ti', 'RA~'], ['l@'], ['ply'], ['pER', 'fid']]
+-------------------
+7    Eſt preſque reduit au berluc,
+       [['E'], ['pREsk'], 'R @ d H i _', ['o'], 'b E R l y k']
+-------------------
+8    Ayant perdu tout ſon armée
+       [['E', 'jA~'], ['pER', 'dy'], ['tu'], ['sO~'], ['aR', 'me']]
+-------------------
+8    Qui a eſté miſe en fumée,
+       [['ki'], ['a'], ['Es', 'te'], ['miz'], ['A~'], ['fy', 'me']]
+-------------------
+7    Par ceux qui tiennent le party
+       [['paR'], ['s2'], ['ki'], ['tjEn'], ['l@'], ['paR', 'te']]
+-------------------
+7    Du grand de Condé &amp; Conty,
+       [['dy'], ['gRA~'], ['d2'], ['kO~', "'de"], 'k _ O~ t i']
+-------------------
+8    Qui ont ſoufſert de grandes peines,
+       [['ki'], ['O~'], 's _ u O z E _ _', ['d2'], ['gRA~d'], ['pEn']]
+-------------------
+6    Au moins ſoixante &amp; deux ſémaines;
+       [['o'], ['mwE~'], ['swa', 'sA~t'], ['d2'], '_ _ _ m _ E n _ _']
+-------------------
+9    Alors qu'ils eſtoient ſans raiſon
+       [['a', 'lOR'], 'k _ _ i _ _', 'E s t w a _ _ E', ['sA~'], ['RE', 'zO~']]
+-------------------
+6    Dedans vne infame priſon,
+       [['d@', 'dA~'], 'v _ _', ['E~', 'fam'], ['pRi', 'zO~']]
+-------------------
+5    Par l'intrigue &amp; par les ordres
+       [['paR'], 'l _ E~ _ t R i g _ _', ['paR'], ['le'], ['ORdR']]
+-------------------
+8    De ce grand ſemeur de deſordres,
+       [['d2'], ['s@'], ['gRA~'], ['s@', 'm9R'], ['d2'], 'd @ z O R d R _ _']
+-------------------
+6    Qui voudroit eſtre à preſent
+       [['ki'], 'v _ u d R w _ a', ['EtR'], ['a'], 'p R @ z _ _ _']
+-------------------
+7    Dans le milieu de l'Ocean,
+       [['dA~'], ['l@'], ['mi', 'lj2'], ['d2'], 'l _ O s _ _ A~']
+-------------------
+8    On ne le mette à la potence.
+       [['O~'], ['n@'], ['l@'], ['mEt'], ['a'], ['la'], ['pO', 'tA~s']]
+-------------------
+7    Deſia il ſouffre vn grand ennuy,
+       ['d _ z j a', ['il'], ['sufR'], 'v _', ['gRA~'], '_ A~ n y i']
+-------------------
+10    Mais c'eſt par trop parler de luy.
+       [['mE'], 'k _ E s E', ['paR'], ['tRo'], ['paR', 'le'], ['d2'], 'l y i']
+-------------------
+6    Ie m'en vais dans le cabaret
+       ['j _', 'm _ _ E~', ['vE'], ['dA~'], ['l@'], ['ka', 'ba', 'RE']]
+-------------------
+7    Compoſer quelque Triolet.
+       [['kO~', 'po', 'ze'], ['kElk'], ['tRi', 'jO', 'lE']]
+-------------------
+7    QVoy, Mazarin eſt reuenu !
+       ['k v O j', ['ma', 'za', 'RE~'], ['E'], 'R _ _ @ n y', '_']
+-------------------
+6    Au diable ſoit ſa contenance,
+       [['o'], ['djabl'], ['swa'], ['sa'], ['kO~t', 'nA~s']]
+-------------------
+7    Il eſt de bien prés retenu,
+       [['il'], ['E'], ['d2'], ['bjE~'], ['pRe'], ['R@t', 'ny']]
+-------------------
+7    Quoy Mazarin eſt reuenu !
+       ['k _ O j', ['ma', 'za', 'RE~'], ['E'], 'R _ _ @ n y', '_']
+-------------------
+6    Il croyoit eſtre maintenu
+       [['il'], 'k R _ w w _ a', ['EtR'], ['mE~', 't@', 'ny']]
+-------------------
+7    Dans le noble pays de France:
+       [['dA~'], ['l@'], ['nObl'], ['pe', 'ji'], ['d2'], 'f R _ A~ s _ _']
+-------------------
+7    Quoy Mazarin eſt reuenu,
+       ['k _ O j', ['ma', 'za', 'RE~'], ['E'], 'R _ _ @ n y']
+-------------------
+6    Au diable ſoit ſa contenance.
+       [['o'], ['djabl'], ['swa'], ['sa'], ['kO~t', 'nA~s']]
+-------------------
+7    Il croyoit de nos bons François
+       [['il'], 'k R _ w w _ a', ['d2'], ['no'], ['bO~'], 'f R _ A~ _ _ w _ a']
+-------------------
+5    Faire vne capilotade,
+       [['fER'], 'v _ _', ['ka', 'pi', 'lO', 'tad']]
+-------------------
+6    Et mettre nos Princes aux abois,
+       [['e'], ['mEtR'], ['no'], ['pRE~s'], '_ _ k', ['a', 'bwa']]
+-------------------
+7    Il croyoit de nos bons François;
+       [['il'], 'k R _ w w _ a', ['d2'], ['no'], ['bO~'], 'f R _ A~ _ _ w _ a']
+-------------------
+8    Mais il ſe voit en deſarrois
+       [['mE'], ['il'], ['s@'], ['vwa'], ['A~'], 'd @ z a R _ w _ a']
+-------------------
+6    Auec ces Rodemontade;
+       ['_ o E k', ['se'], 'R O d _ m _ O~ t a d _']
+-------------------
+7    Il croyoit de nos bons François
+       [['il'], 'k R _ w w _ a', ['d2'], ['no'], ['bO~'], 'f R _ A~ _ _ w _ a']
+-------------------
+5    Faire vne capilotade.
+       [['fER'], 'v _ _', ['ka', 'pi', 'lO', 'tad']]
+-------------------
+7    Il a ſuborné d'Hocquincour
+       [['il'], ['a'], ['sy', 'bOR', 'ne'], 'd _ S O k _ _ E~ _ k _ u R']
+-------------------
+9    Pour luy faciliter paſſage,
+       [['puR'], 'l y i', ['fa', 'si', 'li', 'te'], ['pa', 'saZ']]
+-------------------
+7    Pour le ramener à la Cour,
+       [['puR'], ['l@'], ['Ram', 'ne'], ['a'], ['la'], ['kuR']]
+-------------------
+7    Il a ſuborné d'Hocquincourt,
+       [['il'], ['a'], ['sy', 'bOR', 'ne'], 'd _ S O k _ _ E~ _ k _ u R _']
+-------------------
+5    S. Luc &amp; le Comte d'Harcourt,
+       ['_', 'l y k', ['l@'], ['kO~t'], 'd _ S a R k _ u R _']
+-------------------
+7    Ce ſont hommes qui ſont peu ſages,
+       [['s@'], ['sO~'], ['Om'], ['ki'], ['sO~'], ['p2'], ['saZ']]
+-------------------
+7    Il a ſuborné d'Hocquincourt
+       [['il'], ['a'], ['sy', 'bOR', 'ne'], 'd _ S O k _ _ E~ _ k _ u R _']
+-------------------
+9    Pour luy faciliter paſſage.
+       [['puR'], 'l y i', ['fa', 'si', 'li', 'te'], ['pa', 'saZ']]
+-------------------
+8    Il amena auecque luy
+       [['il'], ['a', 'm@', 'na'], '_ o E k _ _ _', 'l y i']
+-------------------
+8    Ce coup il ſouſfre grand ennuy,
+       [['s@'], ['ku'], ['il'], 's _ u s f R _', ['gRA~'], '_ A~ n y i']
+-------------------
+8    Il amena auecque luy;
+       [['il'], ['a', 'm@', 'na'], '_ o E k _ _ _', 'l y i']
+-------------------
+9    Condé l'a battu auiourd'huy,
+       [['kO~', "'de"], 'l _ a', ['ba', 'ty'], '_ o s _ u R d _ S y i']
+-------------------
+8    Et mis tous ces gens en fumée;
+       [['e'], ['mi'], ['tus'], ['se'], ['ZA~'], ['A~'], ['fy', 'me']]
+-------------------
+8    Il amena auecque luy
+       [['il'], ['a', 'm@', 'na'], '_ o E k _ _ _', 'l y i']
+-------------------
+8    Il fuſt mené auprés du Roy,
+       [['il'], 'f y s E', ['m@', 'ne'], '_ O p R _ _ _', ['dy'], 'R O j']
+-------------------
+6    Iuſqu'à Poitiers la bonne Ville,
+       ['j O s k _ _ _ _', 'p w a t j e _ _', ['la'], ['bOnn'], ['vil']]
+-------------------
+7    En grand &amp; magnifique arroy,
+       [['A~'], ['gRA~'], ['ma', 'Ji', 'fik'], 'a R _ O j']
+-------------------
+8    Il fuſt mené auprés du Roy,
+       [['il'], 'f y s E', ['m@', 'ne'], '_ O p R _ _ _', ['dy'], 'R O j']
+-------------------
+6    Maintenant il eſt en eſmoy,
+       [['mE~t', 'nA~'], ['il'], ['E'], ['A~'], '_ s m O j']
+-------------------
+7    Car trop ſalle ſont ſes guenilles;
+       [['kaR'], ['tRo'], ['sal'], ['sO~'], ['se'], ['g@', 'nij']]
+-------------------
+8    Il fuſt mené auprés du Roy;
+       [['il'], 'f y s E', ['m@', 'ne'], '_ O p R _ _ _', ['dy'], 'R O j']
+-------------------
+6    Iuſqu'à Poitiers la bonne Ville.
+       ['j O s k _ _ _ _', 'p w a t j e _ _', ['la'], ['bOnn'], ['vil']]
+-------------------
+6    Il croyoit bien perdre Condé,
+       [['il'], 'k R _ w w _ a', ['bjE~'], ['pERdR'], ['kO~', "'de"]]
+-------------------
+7    Conty &amp; Beaufort ſans doutance,
+       ['k _ O~ t i', ['bo', 'fOR'], ['sA~'], 'd _ u t _ A~ s _']
+-------------------
+7    Eſtant du diable ſecondé,
+       [['Es', 'tA~'], ['dy'], ['djabl'], ['s@', 'gO~', 'de']]
+-------------------
+6    Il croyoit bien perdre Condé;
+       [['il'], 'k R _ w w _ a', ['bjE~'], ['pERdR'], ['kO~', "'de"]]
+-------------------
+8    A cela il a trop tardé
+       [['a'], ['s@', 'la'], ['il'], ['a'], ['tRo'], ['taR', 'de']]
+-------------------
+7    Dont il en eſt défaillance;
+       [['dO~'], ['il'], ['A~'], ['E'], ['de', 'fa', 'jA~s']]
+-------------------
+6    Il croyoit bien perdre Condé,
+       [['il'], 'k R _ w w _ a', ['bjE~'], ['pERdR'], ['kO~', "'de"]]
+-------------------
+7    Conty &amp; Beaufort ſans doutance.
+       ['k _ O~ t i', ['bo', 'fOR'], ['sA~'], 'd _ u t _ A~ s _']
+-------------------
+7    Ce coup il eſt en déconfort,
+       [['s@'], ['ku'], ['il'], ['E'], ['A~'], 'd _ _ k _ O~ f O R _']
+-------------------
+7    A peu qu'il ne perde patience;
+       [['a'], ['p2'], 'k _ _ i _', ['n@'], ['pERd'], ['pa', 'sjA~s']]
+-------------------
+8    Il craint Condé, Conty, Beaufort,
+       [['il'], ['kRE~'], ['kO~', "'de"], 'k _ O~ t i', ['bo', 'fOR']]
+-------------------
+7    Ce coup il eſt en déconfort;
+       [['s@'], ['ku'], ['il'], ['E'], ['A~'], 'd _ _ k _ O~ f O R _']
+-------------------
+7    Et moy ie predis que ſa mort
+       [['e'], 'm O j', 'j _', 'p R @ d i _', ['k@'], ['sa'], ['mOR']]
+-------------------
+6    Sera au bout d'vne potence;
+       [['s@', 'Ra'], ['o'], ['bu'], 'd _ v _ _', ['pO', 'tA~s']]
+-------------------
+6    Ce-coup il eſt en déconfort,
+       ['s _ _ k _ u p', ['il'], ['E'], ['A~'], 'd _ _ k _ O~ f O R _']
+-------------------
+7    A peu qui ne perde patience.
+       [['a'], ['p2'], ['ki'], ['n@'], ['pERd'], ['pa', 'sjA~s']]
+-------------------
+5    de Meſſieurs les Princes.
+       [['d2'], ['me', 'sj2'], ['le'], ['pRE~s']]
+-------------------
+6.93048128342246
+Nb des vers :  187
